@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 /node_modules
 /.env
+=======
+.env 
+node_modules
+dist
+>>>>>>> 3f7c1aa (Add React frontend)
